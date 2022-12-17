@@ -6,7 +6,10 @@ This project aims to develop a predictive model to predict the academic performa
 We used Naïve bayes, KNN, SVM, Kernel SVM, ANN, Logistic Regression, Decision tree and Random Forest classifiers to build different models. The training and test set ratio was 75:25. Among them, Decision tree and Random Forest algorithm performed best with 100% accuracy on test dataset. Lastly, ROC curve and AUC are also compared among applied algorithms. A dataset with large number of instances would be compatible to analyze the performance metrices more accurately.  
 
 ![image](https://user-images.githubusercontent.com/62327880/208235523-13cfda8b-0796-407d-90fd-f805aa7c7c61.png)
+Fig: Flowchart of the solution
+
 ![image](https://user-images.githubusercontent.com/62327880/208235531-13b7f495-f025-4606-9518-6dabca15d867.png)
+Fig: The preprocessed student related variables
 
 ![image](https://user-images.githubusercontent.com/62327880/208235540-049aed50-c51a-4f93-9d42-04d7e55b1a14.png)
 Fig: Individual histogram of the attributes 
